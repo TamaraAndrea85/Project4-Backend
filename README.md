@@ -3,11 +3,11 @@
 <br />
 <div align="center">
   <a href=>
-    <img src="https://res.cloudinary.com/dsruc2myl/image/upload/v1645483491/Project_3/zjjjr772beeecwbond4u.webp" alt="Logo" width="250" height="250">
+    <img src="https://res.cloudinary.com/dsruc2myl/image/upload/v1647215896/personal/csui2q6fartgyn4r6qhc.png" alt="Logo" width="250" height="250">
 
   </a>
 
-<h3 align="center">Social Meal-Dia</h3>
+<h3 align="center">My Hair Blog</h3>
 
   <p align="center">
    a MERN stack social media app for posting pictures of your wonderful meals
