@@ -10,16 +10,16 @@
 <h3 align="center">My Hair Blog</h3>
 
   <p align="center">
-   a MERN stack social media app for posting pictures of your wonderful meals
+   A MERN stack social media app for posting and sharing ideas, experiences, and reviews of natural hair/products.
     <br />
-    <a href="https://github.com/Cookbook-Group/front-end"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/TamaraAndrea85/Project4-Backend"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://social-meal-dia.herokuapp.com/">View Demo</a>
     ·
-    <a href="https://github.com/cookbook-group/front-end/issues">Report Bug</a>
+    <a href="https://github.com/TamaraAndrea85/Project4-Backend/issues">Report Bug</a>
     ·
-    <a href="https://github.com/cookbook-group/front-end/issues">Request Feature</a>
+    <a href="https://github.com/TamaraAndrea85/Project4-Backend/issues">Request Feature</a>
   </p>
 </div>
 
@@ -57,11 +57,11 @@
 <!-- ABOUT THE PROJECT -->
 # About The Project
 
-Do you like to cook?
+Let's talk Natural hair!
 
-Cooking is a universal language. Anyone who enjoys cooking knows that when you share a common interest like cooking with someone from a different culture, you can easily form a bond. It’s an amazing opportunity to share recipes and dishes and learn from different culinary traditions.
+Hair is an especially important topic to all wowmen.  We all like to look good, because when we look good we ultimatly feel good too!
 
-This is Social-Meal-Dia, a MERN stack social media app for posting pictures of your wonderful meals, sharing your faverite recipes, like and follow other users, searching and reviewing recipes with other people from all around the world!
+My natural hair blog, is a MERN stack social media app; a community for women with natural/curly hair to express their thoughts, feelings, ideas, and perhaps reviews of products.  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
