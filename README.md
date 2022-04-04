@@ -93,6 +93,7 @@ The Premise: Instagram for food, post pictures with recipes, get ratings and com
 * [MongoDB](https://www.mongodb.com/)
 * [Express.js](https://expressjs.com/)
 * [React.js](https://reactjs.org/)
+* [Redux](https://react-redux.js.org/)
 * [Node.js](https://nodejs.org/)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Multer](https://www.npmjs.com/package/multer)
