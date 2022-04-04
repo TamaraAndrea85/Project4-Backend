@@ -73,32 +73,17 @@ The Premise: Instagram for food, post pictures with recipes, get ratings and com
 
 ## Screen Shot
 * Log In page
-![D33BAF42-443A-4E59-A0EC-D6F69DD6C6C3_1_105_c](https://user-images.githubusercontent.com/91036693/155211955-cd24088c-75bd-446c-bfc0-9b8d8d837a70.jpeg)
+![D33BAF42-443A-4E59-A0EC-D6F69DD6C6C3_1_105_c](https://res.cloudinary.com/dsruc2myl/image/upload/v1649037818/isjuxqxm5l1nhmuco8n2.png)
 
 * Home page
-![2EA51F8A-2920-4FF3-A747-68D0BE157A3A_1_105_c](https://user-images.githubusercontent.com/91036693/155211996-394594d3-614e-4e34-b7bb-cbd62de9f78f.jpeg)
+![2EA51F8A-2920-4FF3-A747-68D0BE157A3A_1_105_c](https://res.cloudinary.com/dsruc2myl/image/upload/v1649037818/v7ixtasq0x0obmvm1jiz.png)
 
-* User page
-![FE9B52C2-DCC8-41F5-B50E-5DF558330A69_1_105_c](https://user-images.githubusercontent.com/91036693/155212019-c2d5b533-73bd-4517-9cc6-57fd15eced17.jpeg)
-
-
-![DB944E7A-A330-495A-A17B-C9EB1EB8911D_1_105_c](https://user-images.githubusercontent.com/91036693/155212167-0a868274-1e54-447c-b980-a086d66a68fb.jpeg)
+* Profile page
+![FE9B52C2-DCC8-41F5-B50E-5DF558330A69_1_105_c](https://res.cloudinary.com/dsruc2myl/image/upload/v1649037818/ccebdmqf5dirzpcfi1kx.png)
 
 
-* Show recipes page
-![44EFC679-5F6C-48D0-8BBC-F119A66254D8_1_105_c](https://user-images.githubusercontent.com/91036693/155212184-838de191-b02e-4800-8d6e-2bd5b8138161.jpeg)
-
-
-* Search page
-![208AC49A-D63E-4B15-AECB-DDE3D786A088_1_105_c](https://user-images.githubusercontent.com/91036693/155212206-34d8584d-87e8-49e4-a010-d1a4a0689759.jpeg)
-
-
-## Original Wireframes
-<img width="1205" alt="6B782111-06E7-47DE-B724-616AA9866DAB" src="https://user-images.githubusercontent.com/91036693/155212522-c84b4095-f378-42a7-9484-c3b912b681fe.png">
-
-<img width="1210" alt="3B98AF00-C1AE-4CBF-A00C-2128B9DAE43D" src="https://user-images.githubusercontent.com/91036693/155212538-4420850a-eb10-4a50-91ad-ca32bd082d12.png">
-
-<img width="1213" alt="227F313E-D60A-4D2D-9006-D6B1CD979A1A" src="https://user-images.githubusercontent.com/91036693/155212553-8ca5c345-c70d-4350-af16-7c7a36cb18ca.png">
+* Posts Page
+![44EFC679-5F6C-48D0-8BBC-F119A66254D8_1_105_c](https://res.cloudinary.com/dsruc2myl/image/upload/v1649037796/nczdjd2e7h3u5xwr4puw.png)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -110,9 +95,9 @@ The Premise: Instagram for food, post pictures with recipes, get ratings and com
 * [React.js](https://reactjs.org/)
 * [Node.js](https://nodejs.org/)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [HTML5](https://svelte.dev/)
-* [SCSS](https://sass-lang.com/)
-* [Passport.js](https://www.passportjs.org/)
+* [Multer](https://www.npmjs.com/package/multer)
+* [Tailwind CSS](https://tailwindcss.com/docs/installation)
+* [JWT](https://jwt.io/)
 * [Cloudinary](https://cloudinary.com/)
 
 # Getting Started
@@ -142,7 +127,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This social-meal-dia app can be use to share food images, calories, ingredience, and recipies with other users. You also have the ability to like recepies, and follow other users.
+This Blog app can be use to share ideas, thoughts, and experiences as it realates to natural/curly hair with other users. You also have the ability to like posts, and follow other users.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -162,23 +147,25 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [x] Link posts and users for edit permissions/ delete permissions
 - [x] Add linked to users, ratings/interactions
 - [ ] Add comments to users.
-- [x] Advanced search features (Posts, Users and link to other).
-- [x] Upload image in Cloudinary.
-- [ ] Link to other social media buttons.
+
+- [x] Upload image in Cloudinary/Multer.
 
 ## User Stories
 - [x] As a User, I can Register and Log In
-- [x] As a User, I can upload my recipes
-- [x] As a User, I can upload recipes with pictures
-- [x] As a User, I can see other users recipes
-- [x] As a User, I can like other users recipes
-- [x] As a User, I want to be able to find reicpes by parameters
+- [x] As a User, I can upload posts
+- [x] As a User, I can upload photos with my posts.
+- [x] As a User, I can see other users posts
+- [x] As a User, I can like other users posts
+- [x] As a User, I want to be able to follow other users
 - [x] As a User, I want to be able to interact with users*
 - [x] As a User, I want to be able to filter recipes
-- [x] As a user, I want to be able to fix the recipes if I make a mistake
+- [x] As a user, I want to be able to update/delete my posts
+- [x] As a user/Admin, I want to be able to update/delete/add my post categories
+- [x] As a user/Admin, I want to be able to block or unblock users.
+- [x] As a user/Admin, I want to be able to update my profile
 
 
-See the [open issues](https://github.com/cookbook-group/front-end/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/TamaraAndrea85/Project4-Backend/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -214,17 +201,15 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-* Nicholas Tonelli - [LinkedIn](https://twitter.com/twitter_handle) -[nicholasevantonelli@gmail.com](nicholasevantonelli@gmail.com)
+
 
 * Tamara Wilburn- [LinkedIn](https://www.linkedin.com/in/tamara-wilburn-905842227/) -[TamaraAndreaWilburn@gmail.com](TamaraAndreaWilburn@gmail.com)
 
-* Voravadee Rocco - [LinkedIn](https://www.linkedin.com/in/voravadee-rocco) -[vora.rocco@gmail.com](vora.rocco@gmail.com)
 
-* Winnie Bolm  - [LinkedIn](https://www.linkedin.com/in/winniebolm/)  -[winnie.bolm@gmail.com](winnie.bolm@gmail.com)
 
-Project Link: [https://github.com/cookbook-group](https://github.com/cookbook-group)
+Project Link: [https://github.com/TamaraAndrea85](https://github.com/TamaraAndrea85/Project4-Backend)
 
-View Demo: https://social-meal-dia.herokuapp.com/
+View Demo: /
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -233,14 +218,13 @@ View Demo: https://social-meal-dia.herokuapp.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [General Assembly 9/28 SEI-Flex](https://generalassemb.ly/)
+* [General Assembly 928 SEI-Flex](https://generalassemb.ly/)
 * Billie Heidelberg - SEI Lead
 * Matt Keane - Instructional Associate
 * Paresh Sharma - Instructional Associate
-* Nicholas Tonelli (for conceptulizing/bringing to life of the app)
-* Tamara Wilburn (for conceptulizing/bringing to life of the app)
-* Voravadee Rocco (for conceptulizing/bringing to life of the app)
-* Winnie Bolm (for conceptulizing/bringing to life of the app)
+
+
+
 
 
 
