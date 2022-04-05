@@ -10,12 +10,12 @@
 <h3 align="center">My Hair Blog</h3>
 
   <p align="center">
-   A MERN stack social media app for posting and sharing ideas, experiences, and reviews of natural hair/products.
+   A MERN stack social media app for posting and sharing ideas, experiences, and reviews as it pertains to natural/curly hair and natual/curly hair products.
     <br />
     <a href="https://github.com/TamaraAndrea85/Project4-Backend"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://social-meal-dia.herokuapp.com/">View Demo</a>
+    <a href="https://project4-myblog.herokuapp.com/">View Demo</a>
     ·
     <a href="https://github.com/TamaraAndrea85/Project4-Backend/issues">Report Bug</a>
     ·
@@ -32,7 +32,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#front-end">Front-end</a></li>
+        <li><a href="#back-end">Back-end</a></li>
         <li><a href="#screen-shot">Screen Shot</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -57,17 +57,16 @@
 <!-- ABOUT THE PROJECT -->
 # About The Project
 
-Let's talk Natural hair!
+Let's talk natural hair!
 
-Hair is an especially important topic to all wowmen.  We all like to look good, because when we look good we ultimatly feel good too!
+Hair is an especially important topic to all women.  We all like to look good, because when we look good we ultimatly feel good too!
 
 My natural hair blog, is a MERN stack social media app; a community for women with natural/curly hair to express their thoughts, feelings, ideas, and perhaps reviews of products.  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Front-end
-Created with React.js
-The Premise: Instagram for food, post pictures with recipes, get ratings and comments, search for recipes by parameters, like and follow other users!
+## Back-end
+Created with Express, Node.js
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -220,7 +219,7 @@ View Demo: /
 ## Acknowledgments
 
 * [General Assembly 928 SEI-Flex](https://generalassemb.ly/)
-* Billie Heidelberg - SEI Lead
+* Billie Heidelberg - SEI Lead (Thx for allowing me to annoy you for 6 months, and not lose patience! :))
 * Matt Keane - Instructional Associate
 * Paresh Sharma - Instructional Associate
 
